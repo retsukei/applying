@@ -47,7 +47,7 @@ Panel Text (Text on in-story game panel) - [CC StandBy4Action Regular](https://d
 
 Narration (Text outside bubbles, no box) - [Marker SD Regular](https://drive.google.com/file/d/1bqv-iilI-hasaNOSec1k4EcZ-vOUTLpv/view?usp=drive_link)
 
-Dialogue (Bubbles/Ovals) - CC Victory Speech ([Bold](https://drive.google.com/file/d/1ZB3_05XrlJBJVfGi33spZM2nPDOHTEUX/view?usp=drive_link) / [Italics](https://drive.google.com/file/d/10VibGrLpVJRSORdYZfaw688nK1Bu1ESm/view?usp=drive_link), depends on raws.)
+Dialogue (Bubbles/Ovals) - CC Victory Speech ([Bold](https://drive.google.com/file/d/1ZB3_05XrlJBJVfGi33spZM2nPDOHTEUX/view?usp=drive_link) / [Italics](https://drive.google.com/file/d/10VibGrLpVJRSORdYZfaw688nK1Bu1ESm/view?usp=drive_link) / [Regular](https://drive.google.com/file/d/101C9WE387m_UPgki48-75MrOcO5zRaop/view?usp=drive_link), depends on raws.)
 
 Small Text - [CC Wiccan Sans Regular](https://drive.google.com/file/d/1FV0lb_HDJqszxc-fqXBY8HHWx03vMLvs/view?usp=drive_link)
 
