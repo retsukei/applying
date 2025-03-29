@@ -31,7 +31,8 @@ The fonts provided are part of your test. If you consider any of the chosen font
 
 You can download all fonts below right away [here](https://drive.google.com/drive/folders/1Sk90sydcs-cL4s_WFxcOqfkhnt67dPgA?usp=drive_link).
 
-**Page One**
+
+### Page One
 
 Narration (Boxes) - [BB Back Issues Regular](https://drive.google.com/file/d/1Aho89KenGoZj_miW1mu1GtsI5gL9onpd/view?usp=drive_link)
 
@@ -41,7 +42,8 @@ Small Text (Text outside normal bubbles or boxes) - [DK Bupkis Regular](https://
 
 Panel Text (Text on in-story game panel) - [CC StandBy4Action Regular](https://drive.google.com/file/d/11HWc1bQ2c8XQIKIfAyBvDW3uUqPuVUsp/view?usp=drive_link)
 
-**Pages Two to Four**
+
+### Pages Two to Four
 
 Narration (Text outside bubbles, no box) - [Marker SD Regular](https://drive.google.com/file/d/1bqv-iilI-hasaNOSec1k4EcZ-vOUTLpv/view?usp=drive_link)
 
