@@ -27,13 +27,14 @@ The head may be assisted or urged by appointed advisors which have distinguished
 Staff and Group Leaders have basic rights relating to their stay in Keiretsu.
 
 Full staff are entitled to:
-1. Work on only what they want to work on.
-2. Claim *dibs* on a series, provided they are able to finish their work on time.
-3. Withdraw from working on anything at any time, provided they give notice.
-4. Retire (or go on hiatus) and return with their previous qualifications intact.
-5. Stay in Keiretsu for as long as they want, regardless of activity.
+1. Be fully credited for their work in any officially published Keiretsu-affiliated work (this includes but is not limited to; custom graphics, completed/partially completed work in chapters, style guides, etc.)
+2. Work on only what they want to work on.
+3. Claim *dibs* on a series, provided they are able to finish their work on time.
+4. Withdraw from working on anything at any time, provided they give notice.
+5. Retire (or go on hiatus) and return with their previous qualifications intact.
+6. Stay in Keiretsu for as long as they want, regardless of activity.
 
-Probationary staff are entitled to Full Staff rights from one (1) to three (3), with the exception of an activity quota of at least one published work per month until they are elevated to full status. Their stay in Keiretsu is at the discretion of the Keiretsu head, advisors, or group leaders, in that order.
+Probationary staff are entitled to Full Staff rights from one (1) to three (4), with the exception of an activity quota of at least one published work per month until they are elevated to full status. Their stay in Keiretsu is at the discretion of the Keiretsu head, advisors, or group leaders, in that order.
 
 Group leaders are entitled to:
 1. Leave Keiretsu at any time.
