@@ -34,7 +34,7 @@ Full staff are entitled to:
 5. Retire (or go on hiatus) and return with their previous qualifications intact.
 6. Stay in Keiretsu for as long as they want, regardless of activity.
 
-* Credit placement (e.g., at the beginning, end, or elsewhere within the work) will follow the general style of the series, unless otherwise agreed upon with the contributor in advance.
+*Credit placement (e.g., at the beginning, end, or elsewhere within the work) will follow the general style of the series, unless otherwise agreed upon with the contributor in advance.
 
 Probationary staff are entitled to Full Staff rights from one (1) to three (4), with the exception of an activity quota of at least one published work per month until they are elevated to full status. Their stay in Keiretsu is at the discretion of the Keiretsu head, advisors, or group leaders, in that order.
 
