@@ -27,13 +27,18 @@ The head may be assisted or urged by appointed advisors which have distinguished
 Staff and Group Leaders have basic rights relating to their stay in Keiretsu.
 
 Full staff are entitled to:
-1. Work on only what they want to work on.
-2. Claim *dibs* on a series, provided they are able to finish their work on time.
-3. Withdraw from working on anything at any time, provided they give notice.
-4. Retire (or go on hiatus) and return with their previous qualifications intact.
-5. Stay in Keiretsu for as long as they want, regardless of activity.
+1. Receive full credit for their work in any published project affiliated with Keiretsu*. This includes, but is not limited to, custom graphics, fully or partially completed chapter content, style guides, and other creative or editorial contributions that are considered full roles within Keiretsu and for which the contributor is officially recognized**.
+2. Work on only what they want to work on.
+3. Claim *dibs* on a series, provided they are able to finish their work on time.
+4. Withdraw from working on anything at any time, provided they give notice.
+5. Retire (or go on hiatus) and return with their previous qualifications intact.
+6. Stay in Keiretsu for as long as they want, regardless of activity.
 
-Probationary staff are entitled to Full Staff rights from one (1) to three (3), with the exception of an activity quota of at least one published work per month until they are elevated to full status. Their stay in Keiretsu is at the discretion of the Keiretsu head, advisors, or group leaders, in that order.
+*Credit placement (e.g., at the beginning, end, or elsewhere within the work) will follow the general style of the series, unless otherwise agreed upon with the contributor in advance.
+
+**For group leads to be obligated to credit them for their work, staff must have and be officially qualified for the job or role they've taken up.
+
+Probationary staff are entitled to Full Staff rights from one (1) to three (4), with the exception of an activity quota of at least one published work per month until they are elevated to full status. Their stay in Keiretsu is at the discretion of the Keiretsu head, advisors, or group leaders, in that order.
 
 Group leaders are entitled to:
 1. Leave Keiretsu at any time.
