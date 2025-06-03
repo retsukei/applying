@@ -51,8 +51,9 @@ Dialogue (Bubbles/Ovals) - CC Victory Speech ([Bold](https://drive.google.com/fi
 
 Small Text - [CC Wiccan Sans Regular](https://drive.google.com/file/d/1FV0lb_HDJqszxc-fqXBY8HHWx03vMLvs/view?usp=drive_link)
 
+
 ## Submitting Your Application
 
 Congratulations! In order to submit your application, please make sure you've already joined our [Discord server](https://staff.keiretsu.cc) and open a ticket in [this channel](https://discordapp.com/channels/1131989690715754602/1167557074662731857). After opening a ticket, tell us you're applying for typesetting and submit your finished test files as .PSD's as well as exported .PNG's for accessibility. Please keep in mind that we strictly use .PSD's as it is the most commonly used format in scanlation when working with other people!
 
-Please give us 1-3 days to go over your application. We will *not* reject applicants by not replying. If you think we may have forgotten to reply, please ping @imsisig in your ticket!
+Please give us 1-3 days to go over your application. We will always tell you if you have been rejected. If you think we may have forgotten to reply, please ping @imsisig in your ticket!
