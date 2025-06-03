@@ -28,27 +28,32 @@ Criteria is basic accuracy and basic grammar. Please make your translation as re
 Please follow the format below to ensure that we know which text you are translating.
 
 ![Dialogue](assets/dialogue.png)
+
 Dialogue should be denoted with “()”
 Ex.
 () Hello there! # Not a translation of the bubble above
 
 ![alt text](assets/narration.png)
+
 Narration should be denoted with “[]”
 Ex.
 [] They said hello. # Not a translation of the bubble above
 
 ![alt text](assets/split.png)
+
 Split bubbles should be indicated with “//”
 Ex.
 [] A man has fallen // into a river in Lego City # Not a translation of the bubble above
 () Woah! // They fell! # Not a translation of the bubble above
 
 ![alt text](assets/st.png)
+
 Small text should be indicated with “ST:”
 Ex.
 ST: Why?
 
 ![alt text](assets/sfx.png)
+
 SFX should be indicated with “SFX:”
 Ex.
 SFX: Clack
