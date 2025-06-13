@@ -38,7 +38,7 @@ Full staff are entitled to:
 
 **For group leads to be obligated to credit them for their work, staff must have and be officially qualified for the job or role they've taken up.
 
-Probationary staff are entitled to Full Staff rights from one (1) to three (4), with the exception of an activity quota of at least one published work per month until they are elevated to full status. Their stay in Keiretsu is at the discretion of the Keiretsu head, advisors, or group leaders, in that order.
+Probationary staff are entitled to Full Staff rights from one (1) to four (4), with the exception of an activity quota of at least one published work per month until they are elevated to full status. Their stay in Keiretsu is at the discretion of the Keiretsu head, advisors, or group leaders, in that order.
 
 Group leaders are entitled to:
 1. Leave Keiretsu at any time.
